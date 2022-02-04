@@ -125,8 +125,34 @@ Sorted alphabetically into sub-categories.
 - [PREPRINT TEMPLATES](https://osf.io/hsv6a/): Amazing and useful "Word templates for typesetting preprints. Because your preprint should be a #prettypreprint" and we don't have time for endless formatting.
 - [QUILLBOT](https://quillbot.com/): Paraphrase like the awesome boss you are using QuillBot.
 
+### To sort
+* [The Illustrated Guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
+* [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
+* [Why Am I in Graduate School?](http://cra-ccc.org/lifeofacsgs/why-am-i-in-graduate-school)
+* [Do You Need a PhD?](http://matt-welsh.blogspot.my/2012/03/do-you-need-phd.html)
+* [So, You Want to Go to Grad School?](http://matt-welsh.blogspot.my/2010/09/so-you-want-to-go-to-grad-school.html)
+* [Reasons to Pursue a Ph.D.](http://jxyzabc.blogspot.my/2011/12/reasons-to-pursue-phd.html)
+* [Notes on the PhD Degree](http://matt-welsh.blogspot.my/2010/09/so-you-want-to-go-to-grad-school.html)
+* [The Life of an Academic, Explained](http://jxyzabc.blogspot.my/2012/02/life-of-academic-explained.html)
+* [How Science Really Works](http://jxyzabc.blogspot.my/2013/01/how-science-really-works.html)
+* [What My PhD Was Like](http://jxyzabc.blogspot.my/2016/02/my-phd-abridged.html)
+* [10 Easy Ways to Fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/)
+* [Advice for Students and Junior Researchers](http://www.markus-jakobsson.com/advice-for-students-and-junior-researchers)
+* [Choosing the Right Grad School](http://www.zephoria.org/thoughts/archives/2009/10/28/choosing_the_ri.html)
+* [Deciding to Apply](http://jxyzabc.blogspot.my/2008/08/cs-grad-school-part-1-deciding-to-apply.html)
+* [Some Notes on Picking Grad Schools/Advisors](http://jxyzabc.blogspot.my/2009/02/some-notes-on-picking-grad.html)
+* [FAQ: Applying to Graduate School for Computer Science](http://jxyzabc.blogspot.my/2012/10/faq-applying-to-graduate-school-for.html)
+* [Realistic Expectations Keep You on the Path to a PhD](https://www.timeshighereducation.com/news/realistic-expectations-keep-you-on-the-path-to-a-phd/2015739.article)
+* [Some Modest Advice for Graduate Students](http://stearnslab.yale.edu/some-modest-advice-graduate-students)
+* [Advice for New Ph.D. Students](http://pgbovine.net/early-stage-PhD-advice.htm)
+* [A Collection of Advices for Authoring a PhD or Academic Book](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction)
+* [I Graduated From Harvard and MIT — Here's the Smartest Thing I Did on My Applications](http://www.businessinsider.com/make-college-application-stand-out-2016-12?IR=T&r=US&IR=T)
+* [So long, and thanks for the Ph.D.!](http://www.cs.unc.edu/~azuma/hitch4.html)
+
 ---
 
 ## Special thanks for contributions to this list
 - [Lei Zhang](https://github.com/lei-zhang/)
 - [#AcademicTwitter](https://twitter.com/search?q=%23AcademicTwitter&src=typeahead_click)
+
+
